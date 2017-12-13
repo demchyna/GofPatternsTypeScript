@@ -1,0 +1,1 @@
+{"version":3,"file":"FacadePatternDemo.js","sourceRoot":"","sources":["FacadePatternDemo.ts"],"names":[],"mappings":";;AAAA,2CAAwC;AAExC;IACI,IAAI,UAAU,GAAG,IAAI,uBAAU,EAAE,CAAC;IAElC,UAAU,CAAC,UAAU,EAAE,CAAC;IACxB,UAAU,CAAC,aAAa,EAAE,CAAC;IAC3B,UAAU,CAAC,UAAU,EAAE,CAAC;AAC5B,CAAC;AAED,IAAI,EAAE,CAAC"}
